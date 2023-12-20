@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+helloo world
+=======
+heloo world
+
+>>>>>>> nuthan
